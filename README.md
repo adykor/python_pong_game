@@ -1,5 +1,5 @@
 # Classic Pong Game
-Developed using Python, Python's turtle module for game development, and winsound (sound on!)
+Developed using Python, Python's turtle module, and winsound (sound on!)
 
 ## To Play, Use Keyboard Commands:
 * Left Up:   w
